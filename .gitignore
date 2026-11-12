@@ -1,0 +1,17 @@
+# 依赖与构建产物
+node_modules/
+dist/
+*.tsbuildinfo
+
+# 运行时产物（原始输出不入库，结论写进各 lab 的 README 与 scenarios 的 notes）
+labs/*/runs/
+packages/*/runs/
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+
+# 系统与日志
+.DS_Store
+*.log

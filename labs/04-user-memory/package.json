@@ -1,0 +1,17 @@
+{
+  "name": "@agentlab/lab-04-user-memory",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "generate": "tsx src/tools/generate-scenario.ts",
+    "extract": "tsx src/main.ts extract",
+    "benchmark": "tsx src/main.ts benchmark",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --import tsx --test $(find src -name '*.test.ts')"
+  },
+  "dependencies": {
+    "@agentlab/core-memory": "*"
+  }
+}

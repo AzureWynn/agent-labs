@@ -1,0 +1,21 @@
+{
+  "name": "@agentlab/lab-03-dense-ann",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "compare": "tsx src/main.ts compare",
+    "stress": "tsx src/main.ts stress",
+    "sweep": "tsx src/main.ts sweep",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --import tsx --test $(find src -name '*.test.ts')"
+  },
+  "dependencies": {
+    "@agentlab/core-llm": "*",
+    "@agentlab/core-retrieval": "*",
+    "@agentlab/core-scenario": "*",
+    "annoy": "^4.0.0",
+    "hnsw": "^1.1.1"
+  }
+}

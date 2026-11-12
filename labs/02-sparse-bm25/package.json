@@ -1,0 +1,20 @@
+{
+  "name": "@agentlab/lab-02-sparse-bm25",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "demo": "tsx src/main.ts --mode demo",
+    "explain": "tsx src/main.ts --mode explain",
+    "eval": "tsx src/main.ts --mode eval",
+    "sweep": "tsx src/main.ts --mode sweep",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --import tsx --test $(find src -name '*.test.ts')"
+  },
+  "dependencies": {
+    "@agentlab/core-eval": "*",
+    "@agentlab/core-retrieval": "*",
+    "@agentlab/core-scenario": "*"
+  }
+}

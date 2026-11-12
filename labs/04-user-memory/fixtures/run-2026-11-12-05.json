@@ -1,0 +1,1774 @@
+{
+  "scenario": "pet-clinic-memory",
+  "model": "gemma4:latest",
+  "generatedAt": "2026-11-12T07:28:04.881Z",
+  "source": "ollama",
+  "rounds": [
+    {
+      "userId": "u01",
+      "round": 1,
+      "candidates": [
+        {
+          "content": "用户是王女士",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 2,
+      "candidates": [
+        {
+          "content": "猫叫花花，今年3岁",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 3,
+      "candidates": []
+    },
+    {
+      "userId": "u01",
+      "round": 4,
+      "candidates": [
+        {
+          "content": "花花对鸡肉过敏",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 5,
+      "candidates": [
+        {
+          "content": "花花下次疫苗是5月10日",
+          "tags": [
+            "健康",
+            "日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 6,
+      "candidates": [
+        {
+          "content": "用户电话是13800001111",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 7,
+      "candidates": [
+        {
+          "content": "用户住在3号楼2单元",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 8,
+      "candidates": [
+        {
+          "content": "花花有轻微牙结石，建议半年复查",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 9,
+      "candidates": [
+        {
+          "content": "用户叫王女士",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 10,
+      "candidates": [
+        {
+          "content": "花花是猫，3岁",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 11,
+      "candidates": [
+        {
+          "content": "花花是3岁",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 12,
+      "candidates": [
+        {
+          "content": "花花对鸡肉过敏",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 13,
+      "candidates": [
+        {
+          "content": "花花的疫苗安排在5月10日",
+          "tags": [
+            "宠物/健康/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 14,
+      "candidates": [
+        {
+          "content": "联系电话13800001111",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 15,
+      "candidates": [
+        {
+          "content": "家址在3号楼2单元",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 16,
+      "candidates": [
+        {
+          "content": "花花有轻微牙结石，建议半年复查。",
+          "tags": [
+            "健康",
+            "复查"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 17,
+      "candidates": []
+    },
+    {
+      "userId": "u01",
+      "round": 18,
+      "candidates": [
+        {
+          "content": "我养了一只猫，名字叫花花。",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 19,
+      "candidates": [
+        {
+          "content": "花花3岁。",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 20,
+      "candidates": [
+        {
+          "content": "花花对鸡肉过敏。",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 21,
+      "candidates": [
+        {
+          "content": "花花下一次疫苗在5月10日。",
+          "tags": [
+            "宠物/健康/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 22,
+      "candidates": [
+        {
+          "content": "联系电话是13800001111。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 23,
+      "candidates": [
+        {
+          "content": "地址是3号楼2单元。",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 24,
+      "candidates": [
+        {
+          "content": "花花有轻微牙结石，建议半年复查。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 25,
+      "candidates": [
+        {
+          "content": "登记人是王女士。",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 26,
+      "candidates": [
+        {
+          "content": "宠物名叫花花，是猫。",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 27,
+      "candidates": [
+        {
+          "content": "花花现在3岁。",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 28,
+      "candidates": [
+        {
+          "content": "花花对鸡肉过敏。",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 29,
+      "candidates": [
+        {
+          "content": "5月10日要带花花去疫苗。",
+          "tags": [
+            "日程",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u01",
+      "round": 30,
+      "candidates": [
+        {
+          "content": "电话是13800001111。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 1,
+      "candidates": []
+    },
+    {
+      "userId": "u02",
+      "round": 2,
+      "candidates": [
+        {
+          "content": "我家狗叫豆豆，今年5岁。",
+          "tags": [
+            "宠物/豆豆",
+            "年龄"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 3,
+      "candidates": []
+    },
+    {
+      "userId": "u02",
+      "round": 4,
+      "candidates": [
+        {
+          "content": "豆豆髋关节不好。",
+          "tags": [
+            "健康/豆豆"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 5,
+      "candidates": [
+        {
+          "content": "豆豆下次疫苗是6月2日。",
+          "tags": [
+            "健康/豆豆",
+            "日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 6,
+      "candidates": [
+        {
+          "content": "用户电话是13900002222",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 7,
+      "candidates": [
+        {
+          "content": "用户住在5号楼1单元",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 8,
+      "candidates": [
+        {
+          "content": "豆豆不能长时间爬楼",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 9,
+      "candidates": [
+        {
+          "content": "用户叫李先生，带豆豆来复诊",
+          "tags": [
+            "主人/宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 10,
+      "candidates": [
+        {
+          "content": "豆豆是狗，5岁",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 11,
+      "candidates": [
+        {
+          "content": "豆豆已经5岁了。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 12,
+      "candidates": [
+        {
+          "content": "豆豆髋关节不好。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 13,
+      "candidates": [
+        {
+          "content": "豆豆的疫苗安排在6月2日。",
+          "tags": [
+            "宠物/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 14,
+      "candidates": [
+        {
+          "content": "联系电话13900002222。",
+          "tags": [
+            "联系/地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 15,
+      "candidates": [
+        {
+          "content": "我家在5号楼1单元。",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 16,
+      "candidates": [
+        {
+          "content": "豆豆不能长时间爬楼",
+          "tags": [
+            "照护",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 17,
+      "candidates": []
+    },
+    {
+      "userId": "u02",
+      "round": 18,
+      "candidates": [
+        {
+          "content": "我养了一只狗，名字叫豆豆",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 19,
+      "candidates": [
+        {
+          "content": "豆豆5岁",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 20,
+      "candidates": [
+        {
+          "content": "豆豆髋关节不好",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 21,
+      "candidates": [
+        {
+          "content": "豆豆下一次疫苗在6月2日。",
+          "tags": [
+            "宠物/健康/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 22,
+      "candidates": [
+        {
+          "content": "有事打13900002222找我。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 23,
+      "candidates": [
+        {
+          "content": "地址是5号楼1单元。",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 24,
+      "candidates": [
+        {
+          "content": "豆豆不能长时间爬楼。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 25,
+      "candidates": [
+        {
+          "content": "登记人是李先生。",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 26,
+      "candidates": [
+        {
+          "content": "宠物是豆豆，是狗。",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 27,
+      "candidates": [
+        {
+          "content": "豆豆现在5岁。",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 28,
+      "candidates": [
+        {
+          "content": "豆豆髋关节不好。",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 29,
+      "candidates": [
+        {
+          "content": "6月2日要带豆豆去疫苗。",
+          "tags": [
+            "日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u02",
+      "round": 30,
+      "candidates": [
+        {
+          "content": "电话是13900002222。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 1,
+      "candidates": [
+        {
+          "content": "用户是张阿姨",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 2,
+      "candidates": [
+        {
+          "content": "猫叫咪咪，今年8岁",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 3,
+      "candidates": [
+        {
+          "content": "咪咪今年8岁",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 4,
+      "candidates": [
+        {
+          "content": "咪咪有慢性肾病",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 5,
+      "candidates": [
+        {
+          "content": "咪咪下次复查是4月18日",
+          "tags": [
+            "健康",
+            "日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 6,
+      "candidates": [
+        {
+          "content": "我的电话是13600003333",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 7,
+      "candidates": [
+        {
+          "content": "我住在7号楼3单元",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 8,
+      "candidates": [
+        {
+          "content": "咪咪要吃处方粮",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 9,
+      "candidates": [
+        {
+          "content": "我叫张阿姨",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 10,
+      "candidates": [
+        {
+          "content": "咪咪是猫，8岁",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 11,
+      "candidates": [
+        {
+          "content": "咪咪已经8岁了。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 12,
+      "candidates": [
+        {
+          "content": "咪咪有慢性肾病。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 13,
+      "candidates": [
+        {
+          "content": "咪咪的复查安排在4月18日。",
+          "tags": [
+            "日程/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 14,
+      "candidates": [
+        {
+          "content": "联系电话13600003333。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 15,
+      "candidates": [
+        {
+          "content": "家在7号楼3单元。",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 16,
+      "candidates": [
+        {
+          "content": "咪咪要吃处方粮，平时要注意。",
+          "tags": [
+            "照护",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 17,
+      "candidates": []
+    },
+    {
+      "userId": "u03",
+      "round": 18,
+      "candidates": [
+        {
+          "content": "养了一只猫，名字叫咪咪。",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 19,
+      "candidates": [
+        {
+          "content": "咪咪8岁。",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 20,
+      "candidates": [
+        {
+          "content": "咪咪有慢性肾病。",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 21,
+      "candidates": [
+        {
+          "content": "咪咪下一次复查在4月18日。",
+          "tags": [
+            "宠物/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 22,
+      "candidates": [
+        {
+          "content": "联系电话是13600003333。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 23,
+      "candidates": [
+        {
+          "content": "地址是7号楼3单元。",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 24,
+      "candidates": [
+        {
+          "content": "咪咪要吃处方粮。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 25,
+      "candidates": [
+        {
+          "content": "登记人是张阿姨。",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 26,
+      "candidates": [
+        {
+          "content": "咪咪是猫",
+          "tags": [
+            "宠物/咪咪"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 27,
+      "candidates": [
+        {
+          "content": "咪咪现在8岁",
+          "tags": [
+            "宠物/咪咪/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 28,
+      "candidates": [
+        {
+          "content": "咪咪有慢性肾病",
+          "tags": [
+            "宠物/咪咪/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 29,
+      "candidates": [
+        {
+          "content": "4月18日要带咪咪去复查",
+          "tags": [
+            "宠物/咪咪/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u03",
+      "round": 30,
+      "candidates": [
+        {
+          "content": "电话是13600003333",
+          "tags": [
+            "联系/电话"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 1,
+      "candidates": [
+        {
+          "content": "用户是陈先生",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 2,
+      "candidates": [
+        {
+          "content": "狗叫球球，今年1岁",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 3,
+      "candidates": []
+    },
+    {
+      "userId": "u04",
+      "round": 4,
+      "candidates": [
+        {
+          "content": "球球肠胃敏感",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 5,
+      "candidates": [
+        {
+          "content": "球球下次驱虫是3月20日",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 6,
+      "candidates": [
+        {
+          "content": "用户电话是13700004444",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 7,
+      "candidates": [
+        {
+          "content": "用户住在9号楼2单元",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 8,
+      "candidates": [
+        {
+          "content": "球球不能吃油腻",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 9,
+      "candidates": [
+        {
+          "content": "用户叫陈先生，带球球来复诊",
+          "tags": [
+            "主人/宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 10,
+      "candidates": [
+        {
+          "content": "球球是狗，1岁",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 11,
+      "candidates": [
+        {
+          "content": "球球已经1岁了。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 12,
+      "candidates": [
+        {
+          "content": "球球肠胃敏感。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 13,
+      "candidates": [
+        {
+          "content": "球球的驱虫安排在3月20日。",
+          "tags": [
+            "宠物/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 14,
+      "candidates": [
+        {
+          "content": "联系电话13700004444。",
+          "tags": [
+            "联系/地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 15,
+      "candidates": [
+        {
+          "content": "我家在9号楼2单元。",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 16,
+      "candidates": [
+        {
+          "content": "球球不能吃油腻",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 17,
+      "candidates": []
+    },
+    {
+      "userId": "u04",
+      "round": 18,
+      "candidates": [
+        {
+          "content": "名字叫球球",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 19,
+      "candidates": [
+        {
+          "content": "球球1岁",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 20,
+      "candidates": [
+        {
+          "content": "球球肠胃敏感",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 21,
+      "candidates": [
+        {
+          "content": "球球下一次驱虫在3月20日。",
+          "tags": [
+            "宠物/健康/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 22,
+      "candidates": [
+        {
+          "content": "联系电话是13700004444。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 23,
+      "candidates": [
+        {
+          "content": "地址是9号楼2单元。",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 24,
+      "candidates": [
+        {
+          "content": "球球不能吃油腻。",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 25,
+      "candidates": [
+        {
+          "content": "登记人是陈先生。",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 26,
+      "candidates": [
+        {
+          "content": "宠物是球球，是狗。",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 27,
+      "candidates": [
+        {
+          "content": "球球现在1岁。",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 28,
+      "candidates": [
+        {
+          "content": "球球肠胃敏感。",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 29,
+      "candidates": [
+        {
+          "content": "3月20日要带球球去驱虫。",
+          "tags": [
+            "日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u04",
+      "round": 30,
+      "candidates": [
+        {
+          "content": "电话是13700004444。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 1,
+      "candidates": [
+        {
+          "content": "刘女士是用户。",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 2,
+      "candidates": [
+        {
+          "content": "猫叫糖糖。",
+          "tags": [
+            "宠物"
+          ]
+        },
+        {
+          "content": "糖糖今年2岁。",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 3,
+      "candidates": []
+    },
+    {
+      "userId": "u05",
+      "round": 4,
+      "candidates": [
+        {
+          "content": "糖糖怀孕了。",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 5,
+      "candidates": [
+        {
+          "content": "糖糖下次疫苗是7月8日。",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 6,
+      "candidates": [
+        {
+          "content": "我的电话是13500005555",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 7,
+      "candidates": [
+        {
+          "content": "我住在11号楼1单元",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 8,
+      "candidates": [
+        {
+          "content": "糖糖需要安静环境",
+          "tags": [
+            "照护"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 9,
+      "candidates": [
+        {
+          "content": "我叫刘女士",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 10,
+      "candidates": [
+        {
+          "content": "糖糖是猫，2岁",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 11,
+      "candidates": [
+        {
+          "content": "糖糖已经2岁了",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 12,
+      "candidates": [
+        {
+          "content": "糖糖怀孕了",
+          "tags": [
+            "宠物/健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 13,
+      "candidates": [
+        {
+          "content": "糖糖的疫苗安排在7月8日",
+          "tags": [
+            "宠物/健康/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 14,
+      "candidates": [
+        {
+          "content": "联系电话13500005555",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 15,
+      "candidates": [
+        {
+          "content": "我家在11号楼1单元",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 16,
+      "candidates": [
+        {
+          "content": "糖糖需要安静环境",
+          "tags": [
+            "照护"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 17,
+      "candidates": [
+        {
+          "content": "刘女士",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 18,
+      "candidates": [
+        {
+          "content": "养了一只猫，名字叫糖糖",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 19,
+      "candidates": [
+        {
+          "content": "糖糖2岁",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 20,
+      "candidates": [
+        {
+          "content": "糖糖怀孕了",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 21,
+      "candidates": [
+        {
+          "content": "糖糖下一次疫苗在7月8日。",
+          "tags": [
+            "宠物/健康/日程"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 22,
+      "candidates": [
+        {
+          "content": "有事打13500005555找我。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 23,
+      "candidates": [
+        {
+          "content": "地址是11号楼1单元。",
+          "tags": [
+            "地址"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 24,
+      "candidates": [
+        {
+          "content": "糖糖需要安静环境。",
+          "tags": [
+            "宠物/照护"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 25,
+      "candidates": [
+        {
+          "content": "登记人是刘女士。",
+          "tags": [
+            "主人"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 26,
+      "candidates": [
+        {
+          "content": "宠物名叫糖糖，是猫。",
+          "tags": [
+            "宠物"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 27,
+      "candidates": [
+        {
+          "content": "糖糖现在2岁。",
+          "tags": [
+            "宠物",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 28,
+      "candidates": [
+        {
+          "content": "糖糖怀孕了。",
+          "tags": [
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 29,
+      "candidates": [
+        {
+          "content": "7月8日要带糖糖去疫苗。",
+          "tags": [
+            "日程",
+            "健康"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "u05",
+      "round": 30,
+      "candidates": [
+        {
+          "content": "电话是13500005555。",
+          "tags": [
+            "联系"
+          ]
+        }
+      ]
+    }
+  ]
+}
